@@ -1,0 +1,1 @@
+export const weatherStackApiAccessKey = "67cbb2ce23696253578499b7dbe388bf"
